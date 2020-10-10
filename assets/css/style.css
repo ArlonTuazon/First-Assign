@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+ /* apply styles to <header> */
 header {
     padding: 20px;    
     background-color: #2a607c;
@@ -50,7 +50,7 @@ header nav ul li a {
 p {
     font-size: 16px;
 }
-
+  /* start Hero image Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,7 +59,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* End of  Hero image Style */
 
+/* Start content page styles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -128,6 +130,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of Content page Style */
+
+/* Benefits Styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -186,6 +191,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End of benefits Style */
+
+/* Footer Styles */
 .footer {
     padding: 30px;
     clear: both;
@@ -196,6 +204,7 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* end of footer Style */
 
 
 
