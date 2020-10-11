@@ -13,14 +13,19 @@
 3.  Added alt attributes in all images
      * Search Engine Optimization image 
      <img src="./assets/images/search-engine-optimization.jpg" width="300" alt="search-engine-optimization"/>
+     
      * Online Reputation Management image 
      <img src="./assets/images/online-reputation-management.jpg" width="300" alt="online-reputation-management"/>
+     
      * Social Media Marketing image 
      <img src="./assets/images/social-media-marketing.jpg" width="300" alt="social-media-marketing.jpg"/>
+    
      * Lead Generation image
      <img src="./assets/images/lead-generation.png" alt="funnel and dollar sign" width="200" />
+     
      * Brand Awareness image
      <img src="./assets/images/brand-awareness.png" alt="light bulb" width="200" />
+    
      * Cost Management image 
      <img src="./assets/images/cost-management.png" alt="dollar signs" width="200"/>
 4.  Heading attributes are in order
