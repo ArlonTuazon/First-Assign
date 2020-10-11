@@ -11,7 +11,7 @@
      * footer
 2.  Made sure that the elements are in logical structure
 3.  Added alt attributes in all images
-     * <img src="./assets/images/search-engine-optimization. jpg" width="300" alt="search-engine-optimization"/>
+     * <img src="./assets/images/search-engine-optimization.jpg" width="300" alt="search-engine-optimization"/>
      * <img src="./assets/images/online-reputation-management.jpg" width="300" alt="online-reputation-management"/>
      * <img src="./assets/images/social-media-marketing.jpg" width="300" alt="social-media-marketing.jpg"/>
      * <img src="./assets/images/lead-generation.png" alt="funnel and dollar sign" />
