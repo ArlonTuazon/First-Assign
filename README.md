@@ -21,4 +21,7 @@
 5.  Change the title to "Horiseon Webpage"
 6.  Made Search Engine Optimization heading clickable by adding div id
 
+## Screenshot of the Website
+<img src="./assets/images/horiseon.png" width="500"/>
+
     
